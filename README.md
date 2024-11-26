@@ -13,7 +13,7 @@ I'm a software engineer from Denmark.
 
 #### GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaustubh250793&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KaustubhIngale1704&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 ### What I do
