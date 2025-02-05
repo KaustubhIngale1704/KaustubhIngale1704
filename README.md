@@ -43,14 +43,6 @@ I am currently learning about migrating on premise applications to cloud with ea
 - Python
 - C++ (sort of)
 
-### Productivity utilities
-
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
-
 ## What I'm currently learning 📚
 
 - Diving into VS Code's code base
